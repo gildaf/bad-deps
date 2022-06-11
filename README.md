@@ -1,6 +1,6 @@
 # dev-dependencies bug
 
-This is just an example reproduce the problem we have in cargo
+This repo was made to reproduce the problem we have in cargo
 
 ## How to run this
 
